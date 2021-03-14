@@ -30,6 +30,6 @@ npm run start:debug
 
 6. For testing executions run the next command:
 
-````
+```
 npm run test
 ```

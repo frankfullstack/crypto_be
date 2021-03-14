@@ -1,0 +1,22 @@
+USE `tn-accounts`;
+
+INSERT INTO `tn-accounts`.account (accountName, category, tags, balance, availableBalance) VALUES ('BTC Account 1', 'Personal Account', 'BTC', 0.0, 0.0);
+INSERT INTO `tn-accounts`.account (accountName, category, tags, balance, availableBalance) VALUES ('BTC Account 2', 'Personal Account', 'BTC', 0.0, 0.0);
+INSERT INTO `tn-accounts`.account (accountName, category, tags, balance, availableBalance) VALUES ('BTC Account 3', 'Personal Account', 'BTC', 0.0, 0.0);
+INSERT INTO `tn-accounts`.account (accountName, category, tags, balance, availableBalance) VALUES ('BTC Account 4', 'Personal Account', 'BTC', 0.0, 0.0);
+INSERT INTO `tn-accounts`.account (accountName, category, tags, balance, availableBalance) VALUES ('BTC Account 5', 'Personal Account', 'BTC', 0.0, 0.0);
+INSERT INTO `tn-accounts`.account (accountName, category, tags, balance, availableBalance) VALUES ('BTC Account 6', 'Personal Account', 'BTC', 0.0, 0.0);
+INSERT INTO `tn-accounts`.account (accountName, category, tags, balance, availableBalance) VALUES ('BTC Account 7', 'Personal Account', 'BTC', 0.0, 0.0);
+INSERT INTO `tn-accounts`.account (accountName, category, tags, balance, availableBalance) VALUES ('BTC Account 8', 'Personal Account', 'BTC', 0.0, 0.0);
+INSERT INTO `tn-accounts`.account (accountName, category, tags, balance, availableBalance) VALUES ('BTC Account 9', 'Personal Account', 'BTC', 0.0, 0.0);
+INSERT INTO `tn-accounts`.account (accountName, category, tags, balance, availableBalance) VALUES ('BTC Account 10', 'Personal Account', 'BTC', 0.0, 0.0);
+INSERT INTO `tn-accounts`.account (accountName, category, tags, balance, availableBalance) VALUES ('BTC Account 11', 'Personal Account', 'BTC', 0.0, 0.0);
+INSERT INTO `tn-accounts`.account (accountName, category, tags, balance, availableBalance) VALUES ('BTC Account 12', 'Personal Account', 'BTC', 0.0, 0.0);
+INSERT INTO `tn-accounts`.account (accountName, category, tags, balance, availableBalance) VALUES ('BTC Account 13', 'Personal Account', 'BTC', 0.0, 0.0);
+INSERT INTO `tn-accounts`.account (accountName, category, tags, balance, availableBalance) VALUES ('BTC Account 14', 'Personal Account', 'BTC', 0.0, 0.0);
+INSERT INTO `tn-accounts`.account (accountName, category, tags, balance, availableBalance) VALUES ('BTC Account 15', 'Personal Account', 'BTC', 0.0, 0.0);
+INSERT INTO `tn-accounts`.account (accountName, category, tags, balance, availableBalance) VALUES ('BTC Account 16', 'Personal Account', 'BTC', 0.0, 0.0);
+INSERT INTO `tn-accounts`.account (accountName, category, tags, balance, availableBalance) VALUES ('BTC Account 17', 'Personal Account', 'BTC', 0.0, 0.0);
+INSERT INTO `tn-accounts`.account (accountName, category, tags, balance, availableBalance) VALUES ('BTC Account 18', 'Personal Account', 'BTC', 0.0, 0.0);
+INSERT INTO `tn-accounts`.account (accountName, category, tags, balance, availableBalance) VALUES ('BTC Account 19', 'Personal Account', 'BTC', 0.0, 0.0);
+INSERT INTO `tn-accounts`.account (accountName, category, tags, balance, availableBalance) VALUES ('BTC Account 20', 'Personal Account', 'BTC', 0.0, 0.0);
